@@ -1,6 +1,6 @@
 # Analysis on Coupon Acceptance Rates
 
-Link to jupyter notebook: 
+Link to Analysis Notebook: [coupons.ipynb](https://github.com/rosschu/placeholder1/blob/main/coupons.ipynb) 
 
 ### Introduction
 ----
@@ -62,7 +62,7 @@ Drivers are less likely to accept coffee house coupons in colder weather. Accept
 Drivers are more likely to accept coffee house coupons in daytime social situations. Acceptance rates are higher by 18.1 pp when there is no urgent destination, when they are with friends or partners, or in the afternoon (10 am - 2 pm).
 
 
-### Conclusion
+### Recommendations
 ----
 
 This report examined categories of drivers who are most likely to accept bar coupons and coffee house coupons. Bar coupons have the lowest acceptance rates, but they can be effectiely targeted to drivers with adult passengers, non-widowed drivers, and low-income frequent bar visitors. Coffee houses have higher acceptance rates, but they can be even higher by targeting them to past visitors of coffee houses, responsive occupations/education groups, drivers in coffee-prone weather, and drivers in social situations in the day time.
